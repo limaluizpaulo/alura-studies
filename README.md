@@ -14,12 +14,13 @@ Projeto Alura Studies para o curso de React com Typescript da Alura
 Esse projeto foi desenvolvido com a seguinte técnologias:
 
 - [React][reactjs]
-- [Typescript]
+- [Typescript][typescript]
 - [Context Api][reactjs]
 - [Hooks][reactjs]
 
 
 [reactjs]: https://reactjs.org
+[typescript]: https://www.typescriptlang.org/
 
 #### :thinking: Como rodar
 
